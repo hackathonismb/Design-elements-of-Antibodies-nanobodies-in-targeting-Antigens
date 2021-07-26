@@ -15,4 +15,5 @@ Next steps: <br />
 manuscript submission: <br />
 https://drive.google.com/file/d/1U_Ten5iqmAfmZRe8VVgt3wUHZUq-mqpg/view?usp=sharing
 <br />
-Team members name: Elzbieta Gralinska, Sachendra Kumar, Giovanni Madeo, Luis Jaimes Santiago, Sheela Vemu, Sandra Porter and Todd Smith<br />
+Team members:<br />
+Elzbieta Gralinska, Sachendra Kumar, Giovanni Madeo, Luis Jaimes Santiago, Sheela Vemu, Sandra Porter and Todd Smith<br />
