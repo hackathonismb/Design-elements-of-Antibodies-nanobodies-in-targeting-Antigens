@@ -11,8 +11,8 @@ Proposed Workflow<br />
 <br />
 ![alt text](workflow1r.png)
 
-Next steps: 
-Probable manuscript submission: 
+Next steps: <br />
+Pmanuscript submission: <br />
 https://drive.google.com/file/d/1U_Ten5iqmAfmZRe8VVgt3wUHZUq-mqpg/view?usp=sharing
 <br />
 Team members name: Elzbieta Gralinska, Sachendra Kumar, Giovanni Madeo, Luis Jaimes Santiago, Sheela Vemu, Sandra Porter and Todd Smith<br />
