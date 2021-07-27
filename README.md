@@ -1,4 +1,4 @@
-![alt text](https://github.com/hackathonismb/Molecular-Sentry/molecular-sentry.png)
+![alt text](./molecular-sentry.png)
 
 <br />
 What is the problem we are trying to solve?<br />
