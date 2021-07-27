@@ -1,4 +1,5 @@
-RBD Explorer<br />
+ / Molecular Sentry 
+
 <br />
 What is the problem we are trying to solve?<br />
 Comparing the structures of antibodies and nanobodies relative to each other in a 3D and 2D visualization platform with respect to SARS-CoV2 spike glycoprotein will allow us to understand the details of the intermolecular interactions. <br />
