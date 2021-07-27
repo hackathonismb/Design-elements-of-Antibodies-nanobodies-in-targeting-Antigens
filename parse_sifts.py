@@ -1,7 +1,7 @@
 # #!/home/exec/anaconda3/bin/python
 # -*- coding: utf-8 -*-
 ​
-#
+# curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/3sn6.xml.gz | gunzip | python2 parse_sifts.py 1> 3sn6.tsv 2> /dev/null
 # Generated Thu Nov 20 17:12:58 2014 by generateDS.py version 2.13a.
 #
 # Command line options:
