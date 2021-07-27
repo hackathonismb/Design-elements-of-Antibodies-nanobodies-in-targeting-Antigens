@@ -10,7 +10,7 @@ Reference literature:  IEDB, NCBI, NextStrain, CovabDAB, RCSB, Uniprot<br />
 <br />
 Proposed Workflow<br />
 <br />
-![alt text](https://github.com/hackathonismb/Molecular-Sentry.png)
+![alt text](./Molecular-Sentry.png)
 
 Next steps: <br />
 
