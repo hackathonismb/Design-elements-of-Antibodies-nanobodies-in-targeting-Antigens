@@ -1,4 +1,4 @@
-(molecular-sentry.png)
+![alt text](https://github.com/hackathonismb/Molecular-Sentry/molecular-sentry.png)
 
 <br />
 What is the problem we are trying to solve?<br />
@@ -10,7 +10,7 @@ Reference literature:  IEDB, NCBI, NextStrain, CovabDAB, RCSB, Uniprot<br />
 <br />
 Proposed Workflow<br />
 <br />
-(workflow1r.png)
+![alt text](https://github.com/hackathonismb/Molecular-Sentry.png)
 
 Next steps: <br />
 
