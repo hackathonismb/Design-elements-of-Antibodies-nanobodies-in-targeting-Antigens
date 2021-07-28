@@ -1,5 +1,8 @@
 ![alt text](./molecular-sentry.png)
 
+*Team members:<br />
+**Elzbieta Gralinska, Sachendra Kumar, Giovanni Madeo, Luis Jaimes Santiago, Sheela Vemu, Sandra Porter and Todd Smith<br />
+
 <br />
 What is the problem we are trying to solve?<br />
 Comparing the structures of antibodies and nanobodies relative to each other in a 3D and 2D visualization platform with respect to SARS-CoV2 spike glycoprotein will allow us to understand the details of the intermolecular interactions. <br />
@@ -15,5 +18,4 @@ Proposed Workflow<br />
 Next steps: <br />
 
 <br />
-Team members:<br />
-Elzbieta Gralinska, Sachendra Kumar, Giovanni Madeo, Luis Jaimes Santiago, Sheela Vemu, Sandra Porter and Todd Smith<br />
+
