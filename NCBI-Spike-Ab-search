@@ -1,0 +1,6 @@
+This code will get a list of PDB IDs for structures that contain antibodies bound to the Receptor Binding Domain from the SARS-CoV-2 spike protein. 
+The data are from the protein sequence database.  These represent sequences from 3D protein structures.
+The results are shown in four columns:  the protein seqeuence ID, the PDB ID, the Chain name, and the name of the chain
+For example:  1864383146	6XE1_L	Chain L, CV30 Fab Kappa chain
+Today - this query found 445 protein chains from 231 antibodies
+./esearch -db protein -query "protein_structure_direct[Filter] AND SARS-CoV-2 AND Antibody AND Neutralizing AND RBD NOT Mers" |./efetch -format docsum| ./xtract -pattern DocumentSummary -sep "|" -element Id Caption Title
