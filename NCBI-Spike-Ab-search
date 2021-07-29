@@ -3,4 +3,6 @@ The data are from the protein sequence database.  These represent sequences from
 The results are shown in four columns:  the protein seqeuence ID, the PDB ID, the Chain name, and the name of the chain
 For example:  1864383146	6XE1_L	Chain L, CV30 Fab Kappa chain
 Today - this query found 445 protein chains from 231 antibodies
+Before running this code, you need to install Entrez Direct (EDirect).  I downloaded and installed EDirect by following the instructions on this page https://www.ncbi.nlm.nih.gov/books/NBK179288/
+
 ./esearch -db protein -query "protein_structure_direct[Filter] AND SARS-CoV-2 AND Antibody AND Neutralizing AND RBD NOT Mers" |./efetch -format docsum| ./xtract -pattern DocumentSummary -sep "|" -element Id Caption Title
