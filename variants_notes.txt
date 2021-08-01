@@ -1,0 +1,6 @@
+# Goal: obtaining a list of variants together with spike protein mutations
+# Desired output: variant name (pango lineage, e.g. B.1.1.7) + spike protein mutation (e.g. N501Y)
+# How:
+# 1. Data from CoVariants (from Nextstrain.org)
+# 2. Filter for pango lineage and corresponding mutations from the file: https://github.com/hodcroftlab/covariants/blob/master/scripts/clusters.py
+# 3. Extract the required information and integrate it into the project pipeline
