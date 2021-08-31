@@ -48,7 +48,7 @@ match_pos_mutant=[]
 for i in variants_pos:
     a=int(i[1])
     #print(a)
-    for j in epipara:
+    for j in unique_epipara:
         b=int(j[2])
         #print(b)
         if a==b:
